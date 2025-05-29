@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Angel's BOTW Review</title>
+  <style>
+    body {
+      background-image: url('Zelda Background.jpg');
+      background-size: auto;
+      background-repeat: repeat;
+      background-attachment: scroll;
+      background-position: center;
+      color: white;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    .section-box {
+      background-color: rgba(0, 0, 0, 0.7);
+      color: white;
+      border-radius: 15px;
+      padding: 30px;
+      margin: 40px auto;
+      width: 90%;
+      max-width: 700px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+    }
+
+    .section-box.title-box {
+      width: 90%;
+      max-width:none;
+      margin: 40px auto;
+    }
+
+    .section-box.sub-box {
+      width: 65%;
+      max-width:none;
+      margin: 40px auto;
+    }
+    
+    h1, h2, h3, h4 {
+      text-align: center;
+    }
+
+    img, video, audio {
+      display: block;
+      margin: 20px auto;
+    }
+
+    hr {
+      border: none;
+      height: 1px;
+      background-color: white;
+      margin: 40px auto;
+      width: 80%;
+    }
+
+    .centered-text {
+      text-align: center;
+    }
+
+    .underline-title {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Title -->
+  <div class="section-box title-box">
+    <h1>Breath of the Wild Review</h1>
+  </div>
+
+  <!-- Intro Text -->
+  <div class="section-box">
+    <p>
+      <strong>The Legend of Zelda: Breath of the Wild</strong> is an open-world RPG about a protagonist named Link, who has to save the princess named Zelda. 
+      The game was released to the Nintendo Switch on March 3, 2017, and has become a revolutionary game that has redefined the open-world genre.
+      It is known for its vast world and total freedom, allowing players to take their time exploring.
+      In the game, players will have to fight enemies, complete shrines, and upgrade their gear. 
+      There is not a linear goal or a fixed path, and players have the freedom to do any quest they like in any order.
+      No matter what path you take, everything builds toward your goal of defeating Calamity Ganon.
+    </p>
+  </div>
+
+  <!-- BOTW Opening Scene -->
+  <h2 class="underline-title">BOTW Opening Scene</h2>
+  <video width="640" height="360" controls>
+    <source src="BOTW Opening.mp4" type="video/mp4">
+    <source src="BOTW.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video>
+
+  <hr />
+
+  <!-- Characters Section -->
+  <div class="section-box sub-box">
+  <h1>Characters</h1>
+  </div>
+
+  <!-- Link -->
+  <h3>Link</h3>
+  <img src="BOTW Link.webp" width="320" height="400" alt="Link from Breath of the Wild">
+  <div class="section-box">
+    <p>
+      Link is a Hylian, which is a race that has elfish features such as long, pointed ears. He has blond hair, blue eyes, and is canonically described as handsome. He is physically strong and is known for his stoic silent personality.
+      Link does not have any dialogue in the game. Instead, he communicates through grunts, yells, and humming sounds.
+    <br>
+      Link is the main protagonist of Breath of the Wild. At the beginning of the game, he wakes up in the Shrine of Resurrection after being asleep for 1,000 years.
+      Shortly after waking up, he hears Princess Zelda’s voice urging him to regain his strength and recover his lost memories so he can rescue her and defeat Calamity Ganon.
+      In order to do this, Link must explore Hyrule, gear up and explore ancient ruins to grow powerful enough to defeat the Calamity.
+    <br>
+      Before the Great Calamity 1000 years ago, Link served as Princess Zelda’s personal guard. Together with the Champions, they fought to stop Calamity Ganon but ultimately failed, and Link became severely injured.
+      To save him and the world, Zelda placed Link inside the Shrine of Resurrection to heal, knowing he would awaken 1,000 years later to defeat Ganon.
+      When Link wakes up at the start of the game, his memories are gone and he must journey across Hyrule to regain his strength and memories, confront Calamity Ganon, and free Zelda, who is holding him back within Hyrule Castle.
+    </p>
+  </div>
+
+  <!-- Link Sounds -->
+  <div class="centered-text">
+    <h4>244 Link Sounds</h4>
+    <audio controls>
+      <source src="244 Link Sounds BOTW.ogg" type="audio/ogg">
+      <source src="244 Link Sounds BOTW.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+
+  <hr />
+
+  <!-- Zelda -->
+  <h3>Zelda</h3>
+  <img src="Zelda.webp" width="360" height="400" alt="Princess Zelda from Breath of the Wild">
+  <div class="section-box">
+    <p>
+      Zelda is the deuteragonist of the story. She is a Hylian and was the princess of Hyrule 1000 years ago.
+      She has blond hair, blue eyes, and pointy ears. She is a highly intelligent and determined person, and is burdened with the task of being the princess of Hyrule.
+      She struggles with self-doubt because of her inability to unlock her divine powers, which has led her to study ancient texts in order to help her people and find a way to unlock her powers.
+      While she maintains a composed and resilient personality for her kingdom, she reveals moments of vulnerability, doubt, and frustration over being unable to unlock her divine powers.
+      <br>
+      Before the Great Calamity, she fought with the Champions and Link in order to stop Calamity Ganon. However, it was unsuccessful and she had to place Link in the Shrine of Resurrection and seal Calamity Ganon away for 1000 years.
+      After Link wakes up 1000 years later, she was the one who told Link to regain his memory and power in order to slay Calamity Ganon and free her. She sacrificed her body in order to seal Calamity Ganon for 1000 years in hopes that Link will recover and save Hyrule.
+    </p>
+  </div>
+
+  <hr />
+
+  <!-- Calamity Ganon -->
+  <h3>Calamity Ganon</h3>
+  <div class="section-box">
+    <p>
+      Calamity Ganon is the primary antagonist of BOTW. A dark, malevolent force, he nearly destroyed Hyrule 100 years ago.
+      Though previously sealed away, he returns in a monstrous form, spreading corruption across the land.
+    </p>
+    <p>
+      Ganon resides in Hyrule Castle, held back by Zelda’s power. Link must grow stronger, free the Divine Beasts, and reclaim his memories to confront Ganon in a climactic battle to restore peace.
+    </p>
+  </div>
+
+  <hr />
+
+  <!-- BOTW Ending Scene -->
+  <div class="section-box sub-box">
+  <h1>BOTW Ending Scene</h1>
+  </div>
+
+  <!-- Video -->
+  <video width="640" height="360" controls>
+    <source src="BOTW True Ending.mp4" type="video/mp4">
+    <source src="BOTW.ogg" type="video/ogg">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- End Text -->
+  <div class="section-box">
+    <p>
+      At the end of Breath of the Wild, Link goes into Castle Hyrule to slay Calamity Ganon and free Zelda.
+      He has freed the Divine Beasts which helps weaken Calamity Ganon and has gained the powers of the champions.
+      Calamity has two forms that Link has to defeat, and with the help of the Bow of Light, Link defeats Ganon and saves Hyrule.
+      If you collected all of Link's missing memories, you would unlock the true ending with a bonus cutscene of Link and Zelda after the battle.
+    </p>
+  </div>
+
+  <hr />
+
+  <!-- What This Game Means to Me -->
+  <h2 class="underline-title">What This Game Means to Me</h2>
+  <div class="section-box">
+    <p>
+      Breath of the Wild is one of my favorite games of all time.
+      It captures the sense of freedom and quiet that we rarely get to experience in modern life.
+      This game helps you slow down and focus on one task at a time, unlike the real world where you are continuously overwhelmed with work and responsibilities.
+      You can catch your breath in this game and admire the beautiful scenery around you.
+      It's a game to help you escape from your modern life, and explore the beauty and story of the world.
+      This game is a reminder to take a breath and live in the moment.
+    </p>
+    <p>
+      According to Baudrillard, a pure simulacrum no longer tries to reflect the real world but becomes its own reality.
+      This game can be considered a pure simulacrum because even if it has real world elements such as hunger and weather,
+      it creates its own version of reality. 
+      The world of Hyrule feels alive and "real" with its own kingdoms, races, creatures, cultures, and magic systems.
+      The game is purely fiction and something that does not exist in real life, however it feels real because of the emotions you feel.
+      It makes you remember how beautiful our world can be and how beautiful nature is, and encourages you to live in the moment, even if it is just a simulation.
+    </p>
+  </div>
+  <hr />
+<!-- Sources -->
+  <h2 class="underline-title">Works Cited</h2>
+  <div class="section-box centered-text">
+    <p>
+      Baudrillard, Jean. <em>Simulacra and Simulation</em>. Translated by Sheila Faria Glaser, University of Michigan Press, 1994.
+    </p>
+    <p>
+      Otero, Jose. “The Legend of Zelda: Breath of the Wild Review.” IGN, 29 Apr. 2025, www.ign.com/articles/2017/03/02/the-legend-of-zelda-breath-of-the-wild-review. 
+    </p>
+    <p>
+      Kain, Erik. “‘The Legend of Zelda: Breath of the Wild’ Review: One Game to Hyrule Them All.” Forbes, Forbes Magazine, 18 Nov. 2024, www.forbes.com/sites/games/2017/03/02/the-legend-of-zelda-breath-of-the-wild-review-one-game-to-hyrule-them-all/.
+    </p>
+    <p>
+      Diver, Mike. “‘breath of the Wild’ Is Shaping up to Be a Beautiful Zelda Adventure.” VICE, 27 July 2024, www.vice.com/en/article/breath-of-the-wild-is-shaping-up-to-be-a-beautiful-zelda-adventure/.
+    </p>
+  </div>
+
+</body>
+</html>
